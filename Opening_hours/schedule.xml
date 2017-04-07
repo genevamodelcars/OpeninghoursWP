@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule>
+<Jan>
+    <season>0</season>
+    <week>
+        <open>00:00</open>
+        <close>00:00</close>
+    </week>
+    <weekend>
+        <open>00:00</open>
+        <close>00:00</close>
+    </weekend>
+</Jan>
+<Feb>
+    <season>0</season>
+    <week>
+        <open>00:00</open>
+        <close>00:00</close>
+    </week>
+    <weekend>
+        <open>00:00</open>
+        <close>00:00</close>
+    </weekend>
+</Feb>
+<Mar>
+    <season>1</season>
+    <week>
+        <open>09:00</open>
+        <close>18:00</close>
+    </week>
+    <weekend>
+        <open>11:00</open>
+        <close>16:00</close>
+    </weekend>
+</Mar>
+<Apr>
+    <season>1</season>
+    <week>
+        <open>09:00</open>
+        <close>19:00</close>
+    </week>
+    <weekend>
+        <open>11:00</open>
+        <close>16:00</close>
+    </weekend>
+</Apr>
+<May>
+    <season>1</season>
+    <week>
+        <open>08:00</open>
+        <close>20:00</close>
+    </week>
+    <weekend>
+        <open>11:00</open>
+        <close>17:00</close>
+    </weekend>
+</May>
+<Jun>
+    <season>1</season>
+    <week>
+        <open>08:00</open>
+        <close>21:00</close>
+    </week>
+    <weekend>
+        <open>11:00</open>
+        <close>17:00</close>
+    </weekend>
+</Jun>
+<Jul>
+    <season>1</season>
+    <week>
+        <open>08:00</open>
+        <close>21:00</close>
+    </week>
+    <weekend>
+        <open>11:00</open>
+        <close>17:00</close>
+    </weekend>
+</Jul>
+<Aug>
+    <season>1</season>
+    <week>
+        <open>08:00</open>
+        <close>20:00</close>
+    </week>
+    <weekend>
+        <open>11:00</open>
+        <close>17:00</close>
+    </weekend>
+</Aug>
+<Sep>
+    <season>1</season>
+    <week>
+        <open>09:00</open>
+        <close>19:00</close>
+    </week>
+    <weekend>
+        <open>11:00</open>
+        <close>16:00</close>
+    </weekend>
+</Sep>
+<Oct>
+    <season>1</season>
+    <week>
+        <open>09:00</open>
+        <close>17:00</close>
+    </week>
+    <weekend>
+        <open>11:00</open>
+        <close>16:00</close>
+    </weekend>
+</Oct>
+<Nov>
+    <season>0</season>
+    <week>
+        <open>00:00</open>
+        <close>00:00</close>
+    </week>
+    <weekend>
+        <open>00:00</open>
+        <close>00:00</close>
+    </weekend>
+</Nov>
+<Dec>
+    <season>0</season>
+    <week>
+        <open>00:00</open>
+        <close>00:00</close>
+    </week>
+    <weekend>
+        <open>00:00</open>
+        <close>00:00</close>
+    </weekend>
+</Dec>
+</schedule>
